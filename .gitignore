@@ -1,0 +1,6 @@
+*.aux
+*.auxlock
+*.fls
+*.log
+*.out
+*.synctex.gz
